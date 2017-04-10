@@ -16,8 +16,7 @@ Hi, I am Simon Burrows, a student at Allegheny College. The following presentati
 
 It is about the background of Internet piracy, its detriments to society and how it needs to be stopped.
 
-For my use (piracy presentation): https://cdn.rawgit.com/burrowss/internet_piracy_presentation/a61615c8/internet_piracy_presentation.html
-
+For my use (piracy presentation): https://cdn.rawgit.com/burrowss/internet_piracy_presentation/eeffc70f/internet_piracy_presentation.html
 ## Installation Instructions
 
 You can type the following command if you want to clone this repository:
